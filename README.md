@@ -17,6 +17,7 @@ To understand and implement the representation of sets and basic set operations 
 
 A set is an unordered collection of items. In mathematics, a set can be defined as a collection of distinct objects, considered as an object in its own right. Python provides a datatype called `set` that allows for set creation and the performance of basic set operations.
 
+
 **Procedure**
 
 **1. Creating Sets:** Initialize a set using Python's built-in ‘set’ data type.
@@ -31,8 +32,12 @@ A set is an unordered collection of items. In mathematics, a set can be defined 
 
 **6. Subset and Superset Checks:** Use the ‘issubset’ and ‘issuperset’ methods.
 
+
+
 **Observations**
 Document your observations after executing the Python code. Notice the results of each set operation and how they compare with mathematical set operations.
+
+
 
 **Exercises 1.1: YOUR TURN**
 
@@ -50,6 +55,7 @@ Document your observations after executing the Python code. Notice the results o
 
 
  ## Experiment 1.2: Python Basics for Mathematical Computation
+ 
 
 **Aim**
 
@@ -76,12 +82,16 @@ Python offers a robust platform for mathematical computations. The base language
 
 **6. Trigonometry:** Compute sine, cosine, and tangent values using ‘math.sin()’, ‘math.cos()’, and ‘math.tan()’.
 
+
+
 **Observations**
 
 Document your observations regarding the arithmetic and mathematical functions executed in Python. Observe how certain operations might differ from typical calculator results due to floating-point precision.
+
+
  
 
-**Exercises 1.2: YOOUR TURN**
+**Exercises 1.2: YOUR TURN**
 
 1. Compute and print the factorial of 7.
 
@@ -90,6 +100,8 @@ Document your observations regarding the arithmetic and mathematical functions e
 3. Calculate the sine, cosine, and tangent of 30 degrees.
 
 4. Compute the natural logarithm of 50.
+
+   
 
 _Save your work as "COS203-MyName-lab1b" in a folder on your PC.  This will be useful for future references and review._
 
