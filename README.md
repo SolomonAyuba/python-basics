@@ -1,7 +1,6 @@
 # Python Basics
-This repo contains lab practicals from the Discrete Structures (COS 203) Course module; for 1st semester, 200-level Data Science program at Miva Open University.
+This repo contains lab practicals from the Discrete Structures (COS 203) Course module; for 1st semester, 200-level Data Science program at [Miva Open University](https://miva.university/bsc-in-data-science/).
 
-**© Miva Open University** | 
 **Faculty:** Computer Science | 
 **Department:** Data Science | 
 **NB:** This project was initiated using JetBrains' PyCharm IDE, an open-source IDE of JetBrains (https://www.jetbrains.com/pycharm).
@@ -99,3 +98,4 @@ Document your observations regarding the arithmetic and mathematical functions e
 
 _Save your work as "COS203-MyName-lab1b" in a folder on your PC.  This will be useful for future references and review._
 
+[**© Miva Open University**](https://miva.university/) 2024
