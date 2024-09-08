@@ -19,17 +19,17 @@ A set is an unordered collection of items. In mathematics, a set can be defined 
 
 **Procedure**
 
-**1. Creating Sets:** Initialize a set using Python's built-in `‘set’` data type.
+**1. Creating Sets:** Initialize a set using Python's built-in `set` data type.
 
-**2. Perform Union:** Use the `'union'` function or `‘|’` operator.
+**2. Perform Union:** Use the `union` function or `|` operator.
 
-**3. Perform Intersection:** Use the `‘intersection’ ‘function'` or `‘&’` operator.
+**3. Perform Intersection:** Use the `intersection` function or `&` operator.
 
-**4. Perform Difference:** Use the `‘difference’` function or `‘-‘` operator.
+**4. Perform Difference:** Use the `difference` function or `-` operator.
 
-**5. Perform Symmetric Difference:** Use the `‘symmetric_difference’` function or `‘^’` operator.
+**5. Perform Symmetric Difference:** Use the `symmetric_difference` function or `^` operator.
 
-**6. Subset and Superset Checks:** Use the `‘issubset’` and `‘issuperset’` methods.
+**6. Subset and Superset Checks:** Use the `issubset` and `issuperset` methods.
 
 
 
@@ -72,13 +72,13 @@ Python offers a robust platform for mathematical computations. The base language
 
 **2. Power and Modulus:** Use `**` for power and `%` for modulus operations.
 
-**3. Square Root:** Use `‘math.sqrt()’`.
+**3. Square Root:** Use `math.sqrt()`.
 
-**4. Factorial:** Compute the factorial of a number using `‘math.factorial()’`.
+**4. Factorial:** Compute the factorial of a number using `math.factorial()`.
 
-**5. Logarithm:** Compute logarithm values using `‘math.log()’`.
+**5. Logarithm:** Compute logarithm values using `math.log()`.
 
-**6. Trigonometry:** Compute sine, cosine, and tangent values using `‘math.sin()’` , `‘math.cos()’`, and `‘math.tan()’`.
+**6. Trigonometry:** Compute sine, cosine, and tangent values using `math.sin()` , `math.cos()`, and `math.tan()`.
 
 
 **Observations**
